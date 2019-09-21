@@ -1,0 +1,14 @@
+/home/lpraz/Documents/stanza/api/Stanza.Api/bin/Debug/netcoreapp2.2/Stanza.Api.deps.json
+/home/lpraz/Documents/stanza/api/Stanza.Api/bin/Debug/netcoreapp2.2/Stanza.Api.runtimeconfig.json
+/home/lpraz/Documents/stanza/api/Stanza.Api/bin/Debug/netcoreapp2.2/Stanza.Api.runtimeconfig.dev.json
+/home/lpraz/Documents/stanza/api/Stanza.Api/bin/Debug/netcoreapp2.2/Stanza.Api.dll
+/home/lpraz/Documents/stanza/api/Stanza.Api/bin/Debug/netcoreapp2.2/Stanza.Api.pdb
+/home/lpraz/Documents/stanza/api/Stanza.Api/obj/Debug/netcoreapp2.2/Stanza.Api.csprojAssemblyReference.cache
+/home/lpraz/Documents/stanza/api/Stanza.Api/obj/Debug/netcoreapp2.2/Stanza.Api.csproj.CoreCompileInputs.cache
+/home/lpraz/Documents/stanza/api/Stanza.Api/obj/Debug/netcoreapp2.2/Stanza.Api.RazorAssemblyInfo.cache
+/home/lpraz/Documents/stanza/api/Stanza.Api/obj/Debug/netcoreapp2.2/Stanza.Api.RazorAssemblyInfo.cs
+/home/lpraz/Documents/stanza/api/Stanza.Api/obj/Debug/netcoreapp2.2/Stanza.Api.AssemblyInfoInputs.cache
+/home/lpraz/Documents/stanza/api/Stanza.Api/obj/Debug/netcoreapp2.2/Stanza.Api.AssemblyInfo.cs
+/home/lpraz/Documents/stanza/api/Stanza.Api/obj/Debug/netcoreapp2.2/Stanza.Api.RazorTargetAssemblyInfo.cache
+/home/lpraz/Documents/stanza/api/Stanza.Api/obj/Debug/netcoreapp2.2/Stanza.Api.dll
+/home/lpraz/Documents/stanza/api/Stanza.Api/obj/Debug/netcoreapp2.2/Stanza.Api.pdb
