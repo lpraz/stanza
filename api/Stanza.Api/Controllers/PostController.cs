@@ -31,13 +31,21 @@ namespace Stanza.Api.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Post>>> GetPostsAsync()
         {
-            return await _context.Posts.ToListAsync();
+            return await _context.Posts
+                .Include(p => p.Author)
+                .Include(p => p.InReplyTo)
+                .Include(p => p.Replies)
+                .ToListAsync();
         }
 
         [HttpGet("{id}")]
         public async Task<ActionResult<Post>> GetPostAsync(long id)
         {
-            var post = await _context.Posts.FindAsync(id);
+            var post = await _context.Posts
+                .Include(p => p.Author)
+                .Include(p => p.InReplyTo)
+                .Include(p => p.Replies)
+                .SingleOrDefaultAsync(p => p.Id == id);
 
             if (post == null)
                 return NotFound();
